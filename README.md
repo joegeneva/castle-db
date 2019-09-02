@@ -2,7 +2,7 @@
 A work sample demonstrating database knowledge using a schema inspired by castles.
 
 ## Castle Schema
-This is my attempt to create a database schema for a castle that could be used to track people living in it. Things like where they are scheduled to be, what skills they know, and how much they get paid for jobs.
+This is my attempt to create a database schema for a castle that could be used to track people living in it. Things like where they are scheduled to be, what skills they know, and how much they get paid for those jobs.
 
 ## SQL Queries
 The initial queries I have uploaded work with the skill tables. 
