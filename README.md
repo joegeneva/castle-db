@@ -17,6 +17,7 @@ I used MySql's EER(enhanced entity–relationship) Diagram tool to make the sche
 ## Future Development
 I plan to add triggers, procs, functions, and views. I am going to try to use only SQL given that this project was created to demonstrate my knowedge of it.
 I will add a proc to add a skill to someone. If that skill does not exist, it will be created.
+The current queries will be saved as views.
 
 I will also be adding more constraints to the schema, making columns reject null values, that they are unique, and using check. I will also try making a primary key consisting of multiple keys.
 
